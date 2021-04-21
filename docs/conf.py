@@ -59,4 +59,4 @@ import os
 
 os.system("echo Hello from the other side!")
 os.system("pwd")
-os.system("ll")
+os.system("ls")
