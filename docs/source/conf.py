@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'TestReadTheDocs'
+project = 'TestReadTheDocs_MoreModules'
 copyright = '2021, Marco Menapace'
 author = 'Marco Menapace'
 
