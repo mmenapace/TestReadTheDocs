@@ -1,5 +1,15 @@
-body {background-color: white}
+@font-face {
+    font-family: Hero_Light;
+    src: url(./hero_light/Hero_Light.woff);
+}
+
+body {
+    background-color: white;
+    font-family: Hero_Light;
+}
+
 div.body {
     background-color: #d8e7ff;
     color: #0058c2;
+    font-family: Hero_Light;
 }
