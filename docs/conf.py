@@ -58,3 +58,5 @@ html_static_path = ['_static']
 import os
 
 os.system("echo Hello from the other side!")
+os.system("pwd")
+os.system("ll")
