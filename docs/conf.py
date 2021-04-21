@@ -50,4 +50,11 @@ html_theme = 'alabaster'
 # so a file named "default.css" will overwrite the builtin "default.css".
 html_static_path = ['_static']
 
-print("MMMMMMMMMMMMMM")
+## test to fix the file replacing "_l" with "_"
+##search for "l_,"" and replace it with ""
+##search for "l_("" and replace it with "_("
+##/home/docs/checkouts/readthedocs.org/user_builds/testreadthedocsbymena/envs/latest/lib/python3.7/site-packages/javasphinx/domain.py
+
+import os
+
+os.system("echo Hello from the other side!")
