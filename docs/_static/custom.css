@@ -2,14 +2,18 @@
     font-family: Hero_Light;
     src: url(./hero_light/Hero_Light.woff);
 }
+@font-face {
+    font-family: Hero;
+    src: url(./hero_regular/Hero.otf);
+}
 
 body {
     background-color: white;
-    font-family: Hero_Light;
+    font-family: Hero;
 }
 
 div.body {
     background-color: #d8e7ff;
     color: #0058c2;
-    font-family: Hero_Light;
+    font-family: Hero;
 }
