@@ -4,6 +4,8 @@ This project is to test read the docs capabilities of a stub repo.
 ## Installing
 The project relies on Sphinx and the documentations are available in the /docs
 subdirectory.
+The project is also connected to readthedocs, for a direct connection between the documentation and a web page update.
+To fix issues with the installation of modules this [guide](https://docs.readthedocs.io/en/latest/config-file/v2.html) was used 
 ###Java domain 
 *Objective* The objective is to automatically deploy documentatio for source present in 
 ./src/java directory.
