@@ -10,8 +10,9 @@ To fix issues with the installation of modules this [guide](https://docs.readthe
 *Objective* The objective is to automatically deploy documentatio for source present in 
 ./src/java directory.
 
-command to update the rst files (from project root):
-javasphinx-apidoc ./src/ ./docs/source/
+command to update the Java rst files (from project root):
+javasphinx-apidoc ./src/ -o ./docs/ -f
+
 
 **Installation**
 
