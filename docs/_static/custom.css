@@ -12,8 +12,14 @@ body {
     font-family: Hero;
 }
 
+div.body h1, div.body h2, div.body h3, div.body h4, div.body h5, div.body h6{
+    color: #43516a;
+    font-family: Hero;
+
+}
+
 div.body {
     background-color: #d8e7ff;
-    color: #0058c2;
+    color: #43516a;
     font-family: Hero;
 }
