@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Restart!'
+project = 'Test Java documentation on RTDs!'
 copyright = '2021, MM'
-author = 'MM'
+author = 'Marco Menapace'
 
 
 # -- General configuration ---------------------------------------------------
