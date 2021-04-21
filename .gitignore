@@ -1,3 +1,4 @@
 .idea
 /javadoc
 /docs/build/*
+/docs/build/
