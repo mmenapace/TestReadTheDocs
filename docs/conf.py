@@ -43,6 +43,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
+
 html_theme = 'alabaster'
 
 # Add any paths that contain custom static files (such as style sheets) here,
@@ -56,8 +57,6 @@ html_static_path = ['_static']
 ##/home/docs/checkouts/readthedocs.org/user_builds/testreadthedocsbymena/envs/latest/lib/python3.7/site-packages/javasphinx/domain.py
 
 import os
-
-
 
 os.system("echo --- HOT FIX for Javasphinx library ---")
 os.system("echo --- overwriting domain.py with the fixed version ---")
