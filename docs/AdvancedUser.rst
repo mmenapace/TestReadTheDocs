@@ -14,7 +14,7 @@ Advanced User Page
 
 
 Introduction
-===========================================
+-------------------------------------------
 WASDI platform allows advanced users, with coding capabilities, to upload and execute their own
 applications. These applications can be shared across users, using the marketplace section
 

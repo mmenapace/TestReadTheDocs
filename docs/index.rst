@@ -4,10 +4,13 @@ WASDI documentation center
 ====================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 1
    :caption: Contents:
 
    AdvancedUser.rst
+   WebUser.rst
+   java/package-index.rst
+   rstShowCase.rst
 
 
 
@@ -19,10 +22,9 @@ Indices and tables
 ==================
 
 
+
+
+
 * :ref:`search`
 * :ref:`AdvancedUser`
 * :ref:`WebUser`
-
-Java Documentation
-==================
-* :ref:`genindex`

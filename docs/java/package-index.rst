@@ -1,4 +1,4 @@
-java
+Java API reference
 ====
 
 .. java:package:: java
