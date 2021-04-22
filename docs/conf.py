@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Test Java documentation on RTDs!'
-copyright = '2021, MM'
-author = 'Marco Menapace'
+project = 'WASDI documentation center'
+copyright = '2021, Fadeout Software'
+author = ''
 
 
 # -- General configuration ---------------------------------------------------
