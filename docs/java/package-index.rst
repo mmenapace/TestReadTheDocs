@@ -1,4 +1,4 @@
-Java API reference
+java
 ====
 
 .. java:package:: java
@@ -6,6 +6,7 @@ Java API reference
 .. toctree::
    :maxdepth: 1
 
+   WasdiLib
    car
    motorcycle
    vehicle
