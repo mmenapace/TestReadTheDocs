@@ -1,0 +1,17 @@
+Home -> Landing Page <-> Index.rst
+	Web-Users
+		.User Stories (blog...) ?
+		."Manuale" Marketplace
+		."Manuale" Workspaces/Plan/Search/Editor
+
+		.Manuale/Help per le applicazioni (almeno le nostre)
+			.HASARD
+			.Fire Detection
+			.Urban
+	Developer
+
+		.Tutorial
+			.Base/Avanzato/Per linguaggio (magari lo stesso che cambia solo gli snippet di codice)
+
+		.Reference
+			.x Lib
