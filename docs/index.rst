@@ -21,3 +21,4 @@ Search
 
    WebUser.rst
    AdvancedUser.rst
+   Developer.rst
